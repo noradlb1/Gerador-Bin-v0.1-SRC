@@ -1,0 +1,12 @@
+C:\Users\MONSTERMC\Desktop\TheSooftT\TheSooftT\bin\Release\TheSooftT.exe.config
+C:\Users\MONSTERMC\Desktop\TheSooftT\TheSooftT\bin\Release\TheSooftT.exe
+C:\Users\MONSTERMC\Desktop\TheSooftT\TheSooftT\bin\Release\TheSooftT.pdb
+C:\Users\MONSTERMC\Desktop\TheSooftT\TheSooftT\bin\Release\TheSooftT.xml
+C:\Users\MONSTERMC\Desktop\TheSooftT\TheSooftT\obj\Release\TheSooftT.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Desktop\TheSooftT\TheSooftT\obj\Release\TheSooftT.Form1.resources
+C:\Users\MONSTERMC\Desktop\TheSooftT\TheSooftT\obj\Release\TheSooftT.Resources.resources
+C:\Users\MONSTERMC\Desktop\TheSooftT\TheSooftT\obj\Release\TheSooftT.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\TheSooftT\TheSooftT\obj\Release\TheSooftT.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\TheSooftT\TheSooftT\obj\Release\TheSooftT.exe
+C:\Users\MONSTERMC\Desktop\TheSooftT\TheSooftT\obj\Release\TheSooftT.xml
+C:\Users\MONSTERMC\Desktop\TheSooftT\TheSooftT\obj\Release\TheSooftT.pdb
